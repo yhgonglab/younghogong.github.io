@@ -19,12 +19,6 @@ Work experience
 * September 2018 ~: Staff Engineer at Samsung Electronics, Memory Division
   * Customized-CPU design for Multi-channel NAND Management
   * Hardware IP Design for FTL Acceleration
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Research interests
 ======
@@ -38,6 +32,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Publications
+======
+* Google scholar (https://scholar.google.com/citations?hl=en&user=j_7MT9kAAAAJ&view_op=list_works&sortby=pubdate)
+---
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+---
 Service and leadership
 ======
 
