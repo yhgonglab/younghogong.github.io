@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Young-Ho Gong / New Memory & Processor Architecture Lab"
+title                    : "Young-Ho Gong / OOO Lab."
 title_separator          : "-"
 name                     : &name "Young-Ho Gong"
 description              : &description "Ph.D in Computer Science "
